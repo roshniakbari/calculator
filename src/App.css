@@ -1,0 +1,37 @@
+.App{
+  background-color:black;
+  width: 22%;
+  margin: 40px;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+}
+input[type="button"]{
+  padding: 10px 28px;
+  background-color:black;
+  color: white;
+  text-align: center;
+  width: 19%;
+  font-size: 18px;
+  border-color: transparent;
+  border-radius: 5px;
+  box-shadow: 0 4px 7px  rgba(99, 98, 98, 0.3), 0 6px 20px 0 rgba(93, 92, 92, 0.19);
+  /* width: 10; */
+  margin: 10px;
+}
+input[type="text"]{
+  /* margin: 30px; */
+  margin-bottom: 20px;
+  padding: 12px 0px ;
+  background-color:white;
+  color: black;
+  width: 90%;
+  box-shadow: 0 4px 7px  rgba(90, 90, 90, 0.9), 0 6px 20px rgba(93, 92, 92, 0.19);
+  border: 0;
+  border-radius: 5px;
+  padding-left: 10px;
+  font-size: 18px;
+}
+.sign input[type="button"]{
+  color: rgb(33, 194, 248);
+}
